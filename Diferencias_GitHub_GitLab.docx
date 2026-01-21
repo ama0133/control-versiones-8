@@ -1,0 +1,33 @@
+1. Qué es Git?
+Git es un sistema de control de versiones distribuido (DVCS) gratuito y de código abierto, diseñado para gestionar todo tipo de proyectos, desde los más pequeños hasta los más grandes, con rapidez y eficiencia. Fue creado originalmente por Linus Torvalds en 2005 para el desarrollo del kernel de Linux.
+
+Características principales:
+Distribuido: A diferencia de los sistemas centralizados, en Git cada desarrollador tiene una copia completa del historial del proyecto en su máquina local. Esto permite trabajar sin conexión a internet y aumenta la seguridad (si el servidor falla, cualquier cliente tiene el respaldo).
+
+Instantáneas (Snapshots): Git piensa en los datos como una serie de instantáneas de un sistema de archivos en miniatura. Cada vez que guardas tu trabajo (commit), Git toma una "foto" del aspecto de todos tus archivos en ese momento.
+
+Integridad: Todo en Git es verificado mediante una suma de comprobación (checksum SHA-1) antes de ser almacenado, lo que hace imposible cambiar el contenido de un archivo sin que Git se entere.
+
+Ramificación (Branching): Permite crear ramas de trabajo independientes de forma muy rápida y económica para probar nuevas ideas sin afectar el código principal.
+
+2. ¿Qué es GitHub?
+GitHub es una plataforma de alojamiento de código y colaboración basada en la nube que utiliza Git como su motor de control de versiones. Es propiedad de Microsoft y es, actualmente, la plataforma de desarrollo de software más grande del mundo.
+
+Funciones clave:
+Alojamiento de Repositorios: Permite subir tus repositorios locales de Git a la nube para compartirlos con otros.
+
+Colaboración Social: Introduce conceptos de "red social" para programadores, como seguir a usuarios, dar "estrellas" a proyectos y hacer "forks" (copias) de repositorios para contribuir a ellos.
+
+Pull Requests: Es la herramienta fundamental de colaboración. Permite a un desarrollador proponer cambios en el código, los cuales pueden ser revisados, discutidos y aprobados por otros antes de integrarse.
+
+GitHub Actions: Herramienta integrada para la automatización de flujos de trabajo, especialmente CI/CD (Integración y Despliegue Continuos).
+
+3. ¿Qué es GitLab?
+GitLab es una plataforma web de ciclo de vida DevOps completo. Al igual que GitHub, es un gestor de repositorios basado en Git, pero su filosofía se centra en ofrecer todas las herramientas necesarias para el desarrollo de software (desde la planificación hasta el monitoreo) en una sola aplicación.
+
+Diferencias y características:
+Enfoque DevOps: GitLab se destaca por tener herramientas de CI/CD (Integración Continua / Despliegue Continuo) integradas de forma nativa y muy potente desde sus inicios.
+
+Autoalojamiento (Self-hosted): A diferencia de GitHub, que es principalmente un servicio en la nube (SaaS), GitLab ofrece una versión "Community Edition" robusta que las empresas pueden instalar en sus propios servidores privados para tener control total sobre sus datos.
+
+Código Abierto: El núcleo de GitLab es de código abierto, lo que permite a la comunidad contribuir a su desarrollo.
