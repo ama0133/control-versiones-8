@@ -1,0 +1,43 @@
+Martín Moreno Lopez
+Alejandro Montilla Aguilar
+Rodrigo Chica Palacios
+
+====== GIT ======
+
+Git es un sistema de control de versiones distribuido (DVCS) gratuito y de código abierto, diseñado pa>
+
+Características principales:
+Distribuido: A diferencia de los sistemas centralizados, en Git cada desarrollador tiene una copia com>
+
+Instantáneas (Snapshots): Git piensa en los datos como una serie de instantáneas de un sistema de arch>
+
+Integridad: Todo en Git es verificado mediante una suma de comprobación (checksum SHA-1) antes de ser >
+
+Ramificación (Branching): Permite crear ramas de trabajo independientes de forma muy rápida y económic>
+
+
+====== GITHUB =====
+
+GitHub es una plataforma de alojamiento de código y colaboración basada en la nube que utiliza Git com>
+
+Funciones clave:
+Alojamiento de Repositorios: Permite subir tus repositorios locales de Git a la nube para compartirlos>
+
+Colaboración Social: Introduce conceptos de "red social" para programadores, como seguir a usuarios, d>
+
+Pull Requests: Es la herramienta fundamental de colaboración. Permite a un desarrollador proponer camb>
+
+GitHub Actions: Herramienta integrada para la automatización de flujos de trabajo, especialmente CI/CD>
+
+
+====== GITLAB =====
+
+GitLab es una plataforma web de ciclo de vida DevOps completo. Al igual que GitHub, es un gestor de re>
+
+Diferencias y características:
+Enfoque DevOps: GitLab se destaca por tener herramientas de CI/CD (Integración Continua / Despliegue C>
+
+Autoalojamiento (Self-hosted): A diferencia de GitHub, que es principalmente un servicio en la nube (S>
+
+Código Abierto: El núcleo de GitLab es de código abierto, lo que permite a la comunidad contribuir a s>
+
